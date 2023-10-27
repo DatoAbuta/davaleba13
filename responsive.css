@@ -70,6 +70,7 @@
         background: #FFF;
         height: 40px;
         margin-top: 21px;
+        margin-right: 165px;
         text-align: center;
         padding: 11px 28px;
     }
@@ -132,7 +133,7 @@
         display: block;
         position: absolute;
         top: 30px;
-        right: 166px;
+        right: 165px;
         z-index: 0;
     }
     .linee{
