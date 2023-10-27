@@ -252,6 +252,7 @@
         background-image: url(./assets/Group\ 22\ \(1\).svg);
         background-repeat: no-repeat;
         background-position-x: 1%;
+        background-position-y: -40%;
         display: block;
     }
     .names{
