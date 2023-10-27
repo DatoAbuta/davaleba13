@@ -6,7 +6,7 @@
 }
 
 .container{
-    /* overflow-x: hidden; */
+    overflow-x: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -294,6 +294,22 @@ h4{
     display: none;
 }
 .but2{
+    border: 1.5px solid #FFF;
+    background: #2D2641;
+    padding: 13px 24px 12px 24px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    margin-top: 40px;
+}
+.but1{
     border: 1.5px solid #FFF;
     background: #2D2641;
     padding: 13px 24px 12px 24px;

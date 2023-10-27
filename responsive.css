@@ -85,9 +85,18 @@
         background-image: url(./assets/Group\ 17\ \(3\).svg),url(./assets/Group\ 18.svg);
         background-position: 100% -1000%, -1% -700%;
     }
+    .but1{
+        margin-left: 166px;
+        transform: translateX(-1px);
+    }
+    .but1:hover{
+        border: 1.5px solid #FFF;
+        background: #FFF;
+        color: #2C2830;
+    }
     .but2{
-        transform: translateX(116%);
-        margin-left: 50%;
+        transform: translateX(-3%);
+        margin-right: 50%;
     }
     .get{
         width: 540px;
@@ -120,7 +129,7 @@
         display: none;
     }
     .hp2{
-        display: block;
+        display: none;
         position: absolute;
         top: 30px;
         right: 166px;
@@ -158,6 +167,8 @@
         text-align: start;
     }
     .lolik{
+        margin: 0;
+        padding: 0;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -269,5 +280,9 @@
         line-height: normal;
         letter-spacing: 1.5px;
         width: 255px;
+        margin-bottom: 16px;
+    }
+    .desc:hover{
+        border-bottom: 1px solid black;
     }
 }
