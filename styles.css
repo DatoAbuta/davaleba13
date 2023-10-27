@@ -325,7 +325,7 @@ h4{
     margin-left: 50%;
     margin-top: 40px;
 }
-.but2:hover{
+.but2:hover,.but1:hover{
     background: #FFF;
     color: #2C2830;
 }
