@@ -26,9 +26,10 @@ console.log(""+ sum)
 
 console.log("Task N4")
 
-let num = 16
+let num = 16;
+let bum = 1;
 
-for(let i = 1; i <= 16; i++){
+for(let i = bum; i <= num; i++){
     if(i % 3 === 0 && i % 5 === 0){
         console.log("FizzBuzz");
     }else if(i % 3 === 0){
